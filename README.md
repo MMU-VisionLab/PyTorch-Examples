@@ -4,7 +4,7 @@ This repository contains PyTorch code examples. Below are the list of example pr
 
  |Project Name                          |Description                         |
 |-------------------------------|-----------------------------|
-|`CIFAR-10 NN`           |A simple neural network model for CIFAR-10 dataset.|
+|`NN_CIFAR10`           |A simple neural network model for CIFAR-10 dataset.|
 |							|												|
 
 ###  LICENSE
